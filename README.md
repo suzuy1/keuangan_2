@@ -1,7 +1,7 @@
 # Aplikasi Keuangan Cerdas
 
 <p align="center">
-  <img src="https://placehold.co/150x150/7c3aed/ffffff?text=AKC" alt="Logo Aplikasi Keuangan Cerdas" style="border-radius: 50%;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=7c3aed&vCenter=true&width=300&lines=Aplikasi+Keuangan+Cerdas;AKC+%F0%9F%92%B8" alt="Logo AKC Animasi">
 </p>
 
 <p align="center">
