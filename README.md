@@ -32,7 +32,9 @@ Aplikasi Keuangan Cerdas (AKC) adalah sebuah platform manajemen keuangan pribadi
 
 📱 Desain Responsif: Akses dan kelola keuangan Anda dari perangkat apa pun, baik desktop maupun mobile.
 
-🛠️ Teknologi yang Digunakan
+<comment-tag id="3">
+
+🛠️ Teknologi yang Digunakan</comment-tag id="3">
 Frontend:
 
 Next.js - Framework React untuk aplikasi web modern.
